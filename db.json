@@ -8,5 +8,8 @@
         "idOperador": 2,
         "nombreOperador": "Banco Z"
     }
-  ]
+  ], 
+  "register": [
+    { "idOperador" : "1", "usuario": "hkjghildhglkdsgñldfn==", "password" : "237scvdsteq==" }
+    ]
 }
